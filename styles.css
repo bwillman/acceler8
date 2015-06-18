@@ -1,6 +1,6 @@
 
 
-.tile:hover {
+.people .tile:hover {
 	background-color: #cccccc;
 }
 
@@ -9,18 +9,34 @@
 	border: 1px solid #cccccc;
 	height: 150px;
 	padding: 10px; 
-	background-color: #aa99ff;	
+	
 	display: inline-block;
 	float: left;
 	margin: 5px;
 	margin-left: 0px;
-	margin-right: 10px;s
+	margin-right: 10px;
 
 }
 
 .tile_head {
 
 	font-size: 12pt;
+}
+
+.people .tile {
+	background-color: #E16E51;
+}
+
+.solution .tile {
+	background-color: #F4CD2E;
+}
+
+.learning .tile {
+	background-color: #4292A1;
+}
+
+.methods .people{
+	background-color: #E16E51;	
 }
 
 .section_question {
