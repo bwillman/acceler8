@@ -8,17 +8,35 @@
 	width: 150px;
 	border: 1px solid #cccccc;
 	height: 150px;
-	padding: 10px;
+	padding: 10px; 
+	background-color: #aa99ff;	
+	display: inline-block;
+	float: left;
+	margin: 5px;
 
 }
 
 .tile_head {
-	font-size: 24pt;
-	color: #cccccc;
 
+	font-size: 12pt;
 }
 
 .section_question {
 	font-size: 24pt;
 	color: #cccccc;
+}
+
+.col-md-4 {
+	border: 1px solid #00aa99;
+}
+
+.phase_head {
+	font-size: 24pt;
+	color: #545454;
+}
+
+.method_link {
+	color: #545454;
+	display: block;
+	
 }
