@@ -13,6 +13,8 @@
 	display: inline-block;
 	float: left;
 	margin: 5px;
+	margin-left: 0px;
+	margin-right: 10px;s
 
 }
 
@@ -27,7 +29,7 @@
 }
 
 .col-md-4 {
-	border: 1px solid #00aa99;
+	/*border: 1px solid #00aa99;*/
 }
 
 .phase_head {
@@ -38,5 +40,5 @@
 .method_link {
 	color: #545454;
 	display: block;
-	
+
 }
